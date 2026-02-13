@@ -83,3 +83,9 @@ It can also be extended with additional features like timers, certificates, rand
           CONCLUSION
           
           The Interactive Quiz Application successfully demonstrates front-end web development skills by combining structure (HTML), design (CSS), and logic (JavaScript). It provides an engaging and interactive user experience with scoring and dynamic question loading. This project fulfills the requirement of creating a polished quiz application and showcases the practical implementation of web development concepts.  
+
+OUTPUT:
+
+          <img width="1917" height="1071" alt="Image" src="https://github.com/user-attachments/assets/9605468c-4de0-4065-9da3-2ca78ec3ae76" />
+
+
